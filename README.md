@@ -4,9 +4,6 @@ A curated collection of resources on securing autonomous AI agents in production
 
 ## Articles
 
-- **[Design Patterns for Securing LLM Agents against Prompt Injections](https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/)**
-  This new paper by 11 authors from organizations including IBM, Invariant Labs, ETH Zurich, Google and Microsoft is an excellent addition to the literature on prompt injection and LLM security. … *[simonwillison.net]*
-
 - **[Prompt injection explained, with video, slides, and a transcript](https://simonwillison.net/2023/May/2/prompt-injection-explained/)**
   I participated in a webinar this morning about prompt injection, organized by LangChain and hosted by Harrison Chase, with Willem Pienaar, Kojin Oshiba (Robust Intelligence), and Jonathan Cohen and Christopher … *[simonwillison.net]*
 
